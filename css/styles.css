@@ -221,7 +221,7 @@ img{
     .contacts-list {
         display: flex;
         flex-direction: column;
-        gap: 12px;
+        
     }
     .contacts-item-link {
         font-weight: 400;
